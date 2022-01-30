@@ -2767,7 +2767,6 @@ __metadata:
     "@types/passport": ^0
     "@types/passport-http-bearer": ^1
     "@types/supertest": ^2.0.11
-    "@zws.im/schemas": "workspace:*"
     class-transformer: 0.5.1
     class-validator: 0.13.2
     consola: 2.15.3
@@ -2796,20 +2795,6 @@ __metadata:
     xo: 0.47.0
     yn: 5.0.0
     zod: 3.11.6
-  languageName: unknown
-  linkType: soft
-
-"@zws.im/schemas@workspace:*, @zws.im/schemas@workspace:packages/schemas":
-  version: 0.0.0-use.local
-  resolution: "@zws.im/schemas@workspace:packages/schemas"
-  dependencies:
-    "@jonahsnider/prettier-config": 1.1.0
-    "@jonahsnider/xo-config": 5.0.3
-    "@sinclair/typebox": 0.23.3
-    "@tsconfig/node16": 1.0.2
-    prettier: 2.5.1
-    typescript: 4.5.5
-    xo: 0.47.0
   languageName: unknown
   linkType: soft
 
